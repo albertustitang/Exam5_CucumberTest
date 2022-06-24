@@ -4,7 +4,7 @@
 	<test name="Create New Event">
 
 		<classes>
-			<class name="com.nexsoft.runner.NewEventRunner"></class>
+			<class name="com.nexsoft.runner.NewListRunner"></class>
 		</classes>
 
 	</test>
